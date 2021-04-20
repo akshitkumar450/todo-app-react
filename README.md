@@ -1,7 +1,7 @@
 ## hosted at firebase
 
 real-time update
-[link] ( https://todo-app-cp-ee4db.web.app/).
+[link](https://todo-app-cp-ee4db.web.app/).
 
 # Getting Started with Create React App
 
